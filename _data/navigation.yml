@@ -1,0 +1,10 @@
+  - title: Home
+    url: /index.html
+  - title: Privacy
+    subnav:
+      - title: Deutsch
+        url: /privacy/de/
+      - title: English
+        url: /privacy/en/
+  - title: About
+    url: /about    

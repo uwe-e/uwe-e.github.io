@@ -19,7 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Your awesome title
-email: your-email@example.com
+author:
+  name: Uwe Eichkorn
+  email: hanswiaheiri@gmail.com
+copyright: © 2021
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,10 +32,23 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# generate social links in footer
+social_links:
+    github:  https://github.com/uwe-e
+    xing: https://www.xing.com/profile/Uwe_Eichkorn
+    codeproject: https://www.codeproject.com/Members/Uwe-Eichkorn
+
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+
+  # Specify the output style
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
