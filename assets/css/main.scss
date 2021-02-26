@@ -5,7 +5,23 @@
 
 @import "typography";
 
-.content {
-    width: 45rem;
-    margin: 0 auto;
+img {
+    &.img-thumbnail {
+      height: 32px;
+    }
   }
+
+  .card-container{
+    /*padding: 3rem 1.5rem;*/
+    .card{
+      border: none;
+    }
+  }
+
+  .jumbotron{
+    &.contribution{
+      /*color: #0000ff;*/
+      background: url("/assets/images/no_contributions_semi.png") no-repeat center center;
+      background-size: cover;
+    }
+  } 

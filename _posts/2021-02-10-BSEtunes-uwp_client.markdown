@@ -3,6 +3,8 @@ layout: default
 title:  "Welcome to Jekyll! 2021-02-12 09:31:12 +0100"
 date:   2021-02-12 09:31:12 +0100
 categories: jekyll update
+ctatitle: BSEtunes UWP client
+ctaimage: /assets/images/content/bsetunes_uwp/homepage_480x375.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
