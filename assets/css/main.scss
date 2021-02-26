@@ -12,7 +12,6 @@ img {
   }
 
   .card-container{
-    /*padding: 3rem 1.5rem;*/
     .card{
       border: none;
     }
@@ -20,7 +19,6 @@ img {
 
   .jumbotron{
     &.contribution{
-      /*color: #0000ff;*/
       background: url("/assets/images/no_contributions_semi.png") no-repeat center center;
       background-size: cover;
     }
