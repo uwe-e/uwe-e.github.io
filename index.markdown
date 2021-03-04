@@ -5,7 +5,7 @@ title: "Welcome"
 layout: default
 ---
 
-<div class="jumbotron contribution">
+<div class="jumbotron jumbotron-fluid contribution">
   <div class="container">
   <h1 class="display-4">Hello, world!</h1>
   <p>This is my gh-page. It's the entry point to my various private but public repositories</p>

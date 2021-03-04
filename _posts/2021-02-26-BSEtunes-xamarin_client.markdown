@@ -4,7 +4,7 @@ title:  "BSEtunes Xamarin Client"
 date:   2021-02-26 09:05:12 +0100
 categories: jekyll update
 ctatitle: BSEtunes Xamarin client
-ctadescription: is the Xamarin cross platform client of the BSEtunes system. With this client you can play singles, whole albums, the content of your self created playlists and randomized, the whole content of your selected BSEtunes.
+ctadescription: is the Xamarin cross platform client of the BSEtunes system. With this client an authorized user can play singles, whole albums, the content of your self created playlists and randomized, the whole content of your selected BSEtunes.
 ctaimage: /assets/images/content/bsetunes_xamarin/homepage_290x590.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
