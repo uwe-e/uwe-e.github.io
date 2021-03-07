@@ -11,15 +11,18 @@ img {
     }
   }
 
-  .card-container{
+  .container{
     .card{
       border: none;
+      .card-body{
+        padding: 0px;
+      }
     }
   }
 
   .jumbotron{
     &.contribution{
-      background: url("/assets/images/no_contributions_semi.png") no-repeat center center;
+      background: url("/assets/images/no_contributions_semi_wide.png") no-repeat center center;
       background-size: cover;
     }
   } 
