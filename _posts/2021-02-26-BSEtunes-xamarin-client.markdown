@@ -48,3 +48,7 @@ Due to the copyrights of the streamed music files, the load of our server and pe
 ## Questions??
 If you have questions, [here's]({{site.repositories.bsetunes_xamarin}}) the source code.
 
+## Downloads
+
+<a href="itms-services://?action=download-manifest&url=/downloads/bsetunes/ios/manifest.plist">BSEtunes Ad Hoc installation on an Apple device</a>
+
