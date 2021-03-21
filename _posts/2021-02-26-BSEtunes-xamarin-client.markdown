@@ -50,5 +50,5 @@ If you have questions, [here's]({{site.repositories.bsetunes_xamarin}}) the sour
 
 ## Downloads
 
-<a href="itms-services://?action=download-manifest&url=https://uwe-e.github.io/downloads/bsetunes/ios/manifest.plist">BSEtunes Ad Hoc installation on an Apple device</a>
+<a href="itms-services://?action=download-manifest&url=https://uwe-e.github.io/downloads/bsetunes/ios/manifest.plist">click to install it on an Apple device</a>
 
