@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://uwe-e.github.io/downloads/bsetunes/ios/BSETunes.ipa</string>
+					<string>https://uwe-e.github.io/downloads/bsetunes/BSETunes.ip</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_57x57.png</string>
+					<string>https://uwe-e.github.io/downloads/bsetunes/logo_57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_512x512.png</string>
+					<string>https://uwe-e.github.io/downloads/bsetunes/logo_512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bsetunes.xapp</string>
 				<key>bundle-version</key>
-				<string>1.0.006</string>
+				<string>1.0.008</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
