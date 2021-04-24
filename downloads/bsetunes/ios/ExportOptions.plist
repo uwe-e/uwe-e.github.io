@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/BSETunes.ip</string>
+		<string>https://uwe-e.github.io/downloads/bsetunes/ios/bsetunes.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/logo_57x57.png</string>
+		<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/logo_512x512.png</string>
+		<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
@@ -23,7 +23,7 @@
 		<string>BSEtunes AdHoc Provisioning Profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>1C020ED8AD721B9EE8299E609839B7700C633720</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
