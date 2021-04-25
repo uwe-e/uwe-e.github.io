@@ -23,7 +23,7 @@
 		<string>BSEtunes AdHoc Provisioning Profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>1C020ED8AD721B9EE8299E609839B7700C633720</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>

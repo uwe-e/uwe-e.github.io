@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>1C020ED8AD721B9EE8299E609839B7700C633720</string>
+				<string>51D6806ADBBE91638281948CF35E90FB39888016</string>
 				<key>dateExpires</key>
-				<string>07.01.22</string>
+				<string>24.04.22</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -28,9 +28,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>1C020ED8AD721B9EE8299E609839B7700C633720</string>
+						<string>51D6806ADBBE91638281948CF35E90FB39888016</string>
 						<key>dateExpires</key>
-						<string>07.01.22</string>
+						<string>24.04.22</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -59,7 +59,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>c2614688-7378-4002-9e6f-487a136973e0</string>
+				<string>b84576d2-4be4-4a6f-8406-073adbdbff43</string>
 				<key>name</key>
 				<string>BSEtunes AdHoc Provisioning Profile</string>
 			</dict>
