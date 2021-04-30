@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/ios/bsetunes.ipa</string>
+		<string>https://uwe-e.github.io/downloads/bsetunes/ios/BSETunes.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_57x57.png</string>
 		<key>fullSizeImageURL</key>
