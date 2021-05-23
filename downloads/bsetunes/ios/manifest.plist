@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bsetunes.xapp</string>
 				<key>bundle-version</key>
-				<string>1.0.009</string>
+				<string>1.0.012</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
