@@ -50,6 +50,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-coffeescript
+  #- jekyll-to_boolean
 
   # Specify the output style
 sass:
