@@ -15,3 +15,12 @@ image: /assets/images/content/bsetunes_xamarin/ios-lockscreen_332x590.png
 You can also open the "now playing" dialog page. This page displays informations about the current track and allows to play next or previous tracks. Touching the player panel at the bottom of one of the visible pages opens the "Now playing" dialog page.
 
 ![Now playing dialog page](/assets/images/content/bsetunes_xamarin/nowplaying_290x590.png)
+
+## Questions??
+If you have questions, [here's]({{site.repositories.bsetunes_xamarin}}) the source code.
+
+## Downloads
+
+Registered users can install an adhoc distribution version of the app.
+
+<a href="itms-services://?action=download-manifest&url=https://uwe-e.github.io/downloads/bsetunes/ios/manifest.plist">click to install it on an Apple device</a>
