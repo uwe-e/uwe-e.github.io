@@ -3,14 +3,14 @@ layout: default
 title:  "Whats new in BSEtunes Xamarin Client v1.0.1.0"
 date:   2021-05-16 07:05:12 +0100
 description: We can now display "Now playing" informations at the lock screen and control the player from there. This "Now playing" feature enables AirPlay.
-image: /assets/images/content/bsetunes_xamarin/ios-lockscreen_332x590.png
+image: /assets/images/content/bsetunes_xamarin/lockscreen_332x590.png
 ---
 
 # {{ page.title}}
 
 {{page.description}}
 
-![Now playing at lock screen](/assets/images/content/bsetunes_xamarin/ios-lockscreen_332x590.png)
+![Now playing at lock screen](/assets/images/content/bsetunes_xamarin/lockscreen_332x590.png)
 
 You can also open the "now playing" dialog page. This page displays informations about the current track and allows to play next or previous tracks. Touching the player panel at the bottom of one of the visible pages opens the "Now playing" dialog page.
 
