@@ -9,12 +9,14 @@
 			<array>
 				<string>arm64</string>
 			</array>
+			<key>buildNumber</key>
+			<string>1.0.2.0</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>51D6806ADBBE91638281948CF35E90FB39888016</string>
+				<string>53F8A79E6D3032B10C0CBA649DFCE070D21BC111</string>
 				<key>dateExpires</key>
-				<string>24.04.22</string>
+				<string>25.04.23</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -25,12 +27,14 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>51D6806ADBBE91638281948CF35E90FB39888016</string>
+						<string>53F8A79E6D3032B10C0CBA649DFCE070D21BC111</string>
 						<key>dateExpires</key>
-						<string>24.04.22</string>
+						<string>25.04.23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -43,6 +47,8 @@
 						<key>name</key>
 						<string>Uwe Eichkorn</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
@@ -59,7 +65,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>cbfdeacd-800f-4a07-94f6-e62ba3fde924</string>
+				<string>a7869d52-525c-404b-bb1d-2e6f6badf291</string>
+				<key>dateExpires</key>
+				<string>25.04.23</string>
 				<key>name</key>
 				<string>BSEtunes AdHoc Provisioning Profile</string>
 			</dict>
@@ -70,6 +78,8 @@
 				<key>name</key>
 				<string>Uwe Eichkorn</string>
 			</dict>
+			<key>versionNumber</key>
+			<string>1.0.200</string>
 		</dict>
 	</array>
 </dict>

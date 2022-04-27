@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/ios/BSETunes.ipa</string>
+		<string>https://github.com/uwe-e/BSE.Tunes.Xamarin/releases/tag/v1.0.2.2/BSETunes.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_57x57.png</string>
+		<string>https://github.com/uwe-e/BSE.Tunes.Xamarin/releases/tag/v1.0.2.2/logo_57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://uwe-e.github.io/downloads/bsetunes/ios/logo_512x512.png</string>
+		<string>https://github.com/uwe-e/BSE.Tunes.Xamarin/releases/tag/v1.0.2.2/logo_512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
