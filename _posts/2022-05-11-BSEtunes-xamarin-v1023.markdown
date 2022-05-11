@@ -3,7 +3,7 @@ layout: default
 title:  "Bugfix in BSEtunes Xamarin Client v1.0.2.3"
 date:   2022-05-11 07:05:12 +0100
 description: This update prevents a NullReferenceException.
-image: /assets/images/content/bsetunes_xamarin/homepage_337x600.png
+image: /assets/images/content/bsetunes_xamarin/homepage_337x600.PNG
 ---
 
 # {{ page.title}}
