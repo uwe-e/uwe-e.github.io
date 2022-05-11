@@ -23,6 +23,10 @@ If you have questions, [here's]({{site.repositories.bsetunes_xamarin}}) the sour
 
 Registered users can install an adhoc distribution version of the app.
 
+<a href="itms-services://?action=download-manifest&url=https://uwe-e.github.io/downloads/bsetunes/ios/manifest.plist">click to install it on an Apple device</a>
+
+The download link below is experimental and should only be used by the developer
+
 <a href="itms-services://?action=download-manifest&url=https://github.com/uwe-e/BSE.Tunes.Xamarin/releases/download/v1.0.2.3/manifest.plist">experimental installation</a>
 
 
