@@ -23,7 +23,7 @@ If you type in the uri **yourownbsetunes.com**
 in the address field, then the uri will be saved with the **https:** scheme.
 If you need an http address, then you type in the entire address with the included scheme like **http://yourownbsetunes.com**.
 
-The *Explore* proposals will be displayed in a carouselview again. The CollectionView has been replaced.
+The random "Discover" suggestions are now displayed in a carouselview again. The CollectionView has been replaced.
 
 ## Questions??
 If you have questions, [here's]({{site.repositories.bsetunes_xamarin}}) the source code. 

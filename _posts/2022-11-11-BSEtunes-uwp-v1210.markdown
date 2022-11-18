@@ -1,0 +1,41 @@
+---
+layout: default
+title:  "BSEtunes UWP Client v1.2.10.0: Whats new"
+date:   2022-11-11 15:55:12 +0100
+description: The BSEtunes windows client has now the option of inserting desired tracks to the current playlist as the next tracks to be played or appending these selected tracks to the end of this playlist.
+image: /assets/images/content/bsetunes_uwp/BSEtunes-AppendToQueue.png
+---
+
+# {{ page.title}}
+
+Picture this, you're playing one of your playlists but suddenly remember a good song that you want to listen to but you don't want to cancel your playlist and replay it afterward. That's where the "Play Next" feature comes in. You will be able to press the three dots and select it from there.
+
+This is an idea for a spotify extension. Spotify didnt implement that, but BSEtunes dit it.
+
+![Append To](/assets/images/content/bsetunes_uwp/2022-11-11-BSEtunes-uwp-v1210/BSEtunes_710x369.png)
+
+Choose an album or a playlist, select one or more songs of this an insert it to the current playlist as shown in the following animation.
+
+<img src="/assets/images/content/bsetunes_uwp/2022-11-11-BSEtunes-uwp-v1210/BSEtunes 2022-11-11 08-41-36.gif"
+     alt="Play next"
+     style="width: 100%" />
+
+As a further improvement, you can append the selected tracks to the current playlist as shown.
+
+<img src="/assets/images/content/bsetunes_uwp/2022-11-11-BSEtunes-uwp-v1210/BSEtunes 2022-11-11 08-57-28.gif"
+     alt="Append a track to playlist"
+     style="width: 100%" />
+
+## Questions??
+If you have questions, [here's]({{site.repositories.bsetunes_uwp}}) the source code. 
+
+## Downloads
+
+Registered users can download an installable ([what is sideloading](https://learn.microsoft.com/en-us/windows/application-management/sideload-apps-in-windows-10)) version of the app from [https://github.com/uwe-e/BSE.Tunes.UWP/releases/tag/v1.2.10.0](https://github.com/uwe-e/BSE.Tunes.UWP/releases/tag/v1.2.10.0).
+
+Download the file [BSE.Tunes.StoreApp_10_1.2.8.0_x64.msixbundle](https://github.com/uwe-e/BSE.Tunes.UWP/releases/download/v1.2.10.0/BSE.Tunes.StoreApp_10_1.2.8.0_x64.msixbundle) to your download folder and double-click to install.
+
+## Attention:
+A signed code certificate is required for a clean installation. Such certificates are expensive, so we use a self signed certificate, which is not so easy to execute. 
+We try to write a manual for this. 
+
