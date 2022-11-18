@@ -8,13 +8,15 @@ image: /assets/images/content/bsetunes_uwp/BSEtunes-AppendToQueue.png
 
 # {{ page.title}}
 
+{{page.description}}
+
 Picture this, you're playing one of your playlists but suddenly remember a good song that you want to listen to but you don't want to cancel your playlist and replay it afterward. That's where the "Play Next" feature comes in. You will be able to press the three dots and select it from there.
 
-This is an idea for a spotify extension. Spotify didnt implement that, but BSEtunes dit it.
+This is an idea for a spotify extension. Spotify didnt implement it, but BSEtunes dit.
 
 ![Append To](/assets/images/content/bsetunes_uwp/2022-11-11-BSEtunes-uwp-v1210/BSEtunes_710x369.png)
 
-Choose an album or a playlist, select one or more songs of this an insert it to the current playlist as shown in the following animation.
+Choose an album or a playlist, select one or more songs and insert it to the current playlist as shown in the animation below.
 
 <img src="/assets/images/content/bsetunes_uwp/2022-11-11-BSEtunes-uwp-v1210/BSEtunes 2022-11-11 08-41-36.gif"
      alt="Play next"
@@ -37,5 +39,5 @@ Download the file [BSE.Tunes.StoreApp_10_1.2.8.0_x64.msixbundle](https://github.
 
 ## Attention:
 A signed code certificate is required for a clean installation. Such certificates are expensive, so we use a self signed certificate, which is not so easy to execute. 
-We try to write a manual for this. 
+We're trying to write a manual for this. 
 
