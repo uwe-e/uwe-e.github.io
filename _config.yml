@@ -22,7 +22,7 @@ title: "Github Portal"
 author:
   name: Uwe Eichkorn
   email: hanswiaheiri@gmail.com
-copyright: © 2021
+copyright: © 2022
 description: >- # this means to ignore newlines until "baseurl:"
   The portal page of my private but public repositories. The repositories contain various programs, apps, services etc. written in C#, Javascript...
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,6 +41,7 @@ social_links:
 
 repositories:
   bsetunes_xamarin: https://github.com/uwe-e/BSE.Tunes.Xamarin
+  bsetunes_uwp: https://github.com/uwe-e/BSE.Tunes.UWP
 
 collections:
   - tunes_xamarin
