@@ -1,0 +1,7 @@
+---
+title:  Hear,
+subtitle: it's not silent
+image: /assets/images/content/bsetunes_maui/homepage_272x590.png
+---
+
+The gateway to the noisy possibilities of the BSEtunes system – the entry point to music collections and self-created playlists.

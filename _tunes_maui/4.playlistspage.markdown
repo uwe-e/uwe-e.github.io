@@ -1,0 +1,10 @@
+---
+title: Collect,
+subtitle: what your heart wants to hear
+image: /assets/images/content/bsetunes_maui/playlistspage_272x590.png
+---
+
+A playlist is nothing more than an album of songs you choose.
+Create a unlimited number of playlists with your favourite songs.
+
+How To do that is shown in the animation at the top of the page [there](https://github.com/uwe-e/BSE.Tunes.Client)
