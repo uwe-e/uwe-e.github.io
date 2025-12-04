@@ -12,6 +12,8 @@ image: /assets/images/content/bsetunes_maui/2025-12-03-BSEtunes-maui-v105/ios-ho
 
 Porting the BSEtunes client to a cross-platform solution: Since Microsoft discontinued the development and support of Xamarin, the BSEtunes client for iOS and Android has been ported from Xamarin to .NET MAUI.
 
+It’s our first project developed with the support of GitHub Copilot and with GitHub's Copilot as a reviewer.
+
 <div class="card-container">
 {% for category in site.tunes_maui %}
 <div class="card py-4">
