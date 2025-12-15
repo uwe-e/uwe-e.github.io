@@ -3,7 +3,7 @@ layout: default
 title:  "BSEtunes .NET MAUI Client v1.0.6: New version"
 date:   2025-12-15 07:35:12 +0200
 description: New version updates the BSE.Tunes.Maui.Client application with improvements to navigation handling, URL validation, error messaging, and code cleanup.
-image: /assets/images/content/bsetunes_maui/2025-12-03-BSEtunes-maui-v105/ios-homescreen.800.jpg
+image: /assets/images/content/bsetunes_maui/2025-12-15-BSEtunes-maui-v106/ios-error-message.jpg
 ---
 
 # {{ page.title}}
