@@ -3,7 +3,7 @@ layout: default
 title:  "BSEtunes .NET MAUI Client v1.0.7: New version"
 date:   2026-10-23 14:30:12 +0200
 description: The new version communicates with the new ASP.NET Core API. In addition, parts of the app have been moved to external shared services so that they can be used by clients on other platforms.
-image: /assets/images/content/bsetunes_maui/2025-12-15-BSEtunes-maui-v106/ios-error-message.jpg
+image: /assets/images/content/bsetunes_maui/2026-10-23-BSEtunes-maui-v107/5AE6F33C-50D1-4A86-8D4A-E1776DE04277.png
 ---
 
 # {{ page.title}}
@@ -12,13 +12,14 @@ image: /assets/images/content/bsetunes_maui/2025-12-15-BSEtunes-maui-v106/ios-er
 
 ## What's new in version 1.0.7
 
-This version updates the BSE.Tunes.Maui.Client application with improvements to navigation handling, URL validation, error messaging, and code cleanup. The changes focus on making navigation asynchronous throughout the application and introducing a new restart-and-navigate pattern for critical navigation scenarios.
+This version includes the following changes and improvements.
 
-#### Key changes:
-- Updated all navigation calls from synchronous Navigate() to asynchronous NavigateAsync() with proper await
-- Enhanced service endpoint URL validation logic with better scheme handling and error feedback
-- Improved endpoint accessibility checking with timeout support and more specific error messages
-
+- service layer refactoring: large parts of the local MAUI service code were moved to/shared with BSE.Tunes.Shared.Services and BSEtunes.Contracts, reducing duplication and aligning client behavior.
+- Web/data access modernization: updated request/data flow with mapping profile support and cleaner DTO handling.
+- Playlist and playback improvements: refined playlist creation/selection/actions, updated random playback behavior, and improved playlist/track handling.
+- Navigation and search updates: improved album/search/playlist page view-model logic, including pagination-related optimizations.
+- Cache management enhancements: improved cache settings UX with separate audio/image cache size reporting and updated cache cleanup flow (plus file prefetcher support).
+- Platform/build stability updates: added .NET 9 SDK pinning (global.json) and iOS/Xcode compatibility workarounds, with additional responsive layout and localization updates.
 
 ## Important!!
 
