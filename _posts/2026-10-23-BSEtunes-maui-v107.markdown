@@ -40,4 +40,4 @@ Registered users can install an adhoc distribution version of the app.
 
 #### Android Devices
 
-<a href="https://github.com/uwe-e/BSE.Tunes.Client/releases/download/v1.0.6/com.bsetunes.bse.tunes.maui.client.apk">click to install it on an Android device</a>
+<a href="https://github.com/uwe-e/BSE.Tunes.Client/releases/download/v1.0.7/com.bsetunes.bse.tunes.maui.client.apk">click to install it on an Android device</a>
