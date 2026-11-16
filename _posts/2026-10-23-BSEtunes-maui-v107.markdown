@@ -29,7 +29,7 @@ Due to copyright restrictions on the streamed music files, server load, and pote
 - A registration can only be done by the operator of the BSEtunes server.
 
 ## Questions??
-If you have questions, [here's]({{site.repositories.bsetunes_maui}}) the source code. 
+If you have questions, [here's]({{site.repositories.bsetunes_maui}}) the source code.
 
 ## Downloads
 

@@ -22,7 +22,7 @@ title: "Github Portal"
 author:
   name: Uwe Eichkorn
   email: hanswiaheiri@gmail.com
-copyright: © 2025
+copyright: © 2026
 description: >- # this means to ignore newlines until "baseurl:"
   The portal page of my private but public repositories. The repositories contain various programs, apps, services etc. written in C#, Javascript...
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,9 +35,7 @@ globalstrings:
 # generate social links in footer
 social_links:
     github:  https://github.com/uwe-e
-    xing: https://www.xing.com/profile/Uwe_Eichkorn
     linkedin: https://www.linkedin.com/in/uwe-eichkorn-8475b4210
-    codeproject: https://www.codeproject.com/search?editorId=436647
 
 repositories:
   bsetunes_xamarin: https://github.com/uwe-e/BSE.Tunes.Xamarin
