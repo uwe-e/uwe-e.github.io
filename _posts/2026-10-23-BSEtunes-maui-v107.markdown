@@ -10,6 +10,8 @@ image: /assets/images/content/bsetunes_maui/2026-10-23-BSEtunes-maui-v107/5AE6F3
 
 {{page.description}}
 
+![BSEtunes Client](/assets/images/content/bsetunes_maui/2026-10-23-BSEtunes-maui-v107/IMG_7397.PNG)
+
 ## What's new in version 1.0.7
 
 This version includes the following changes and improvements.
