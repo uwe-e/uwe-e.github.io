@@ -48,7 +48,9 @@ If you have questions, [here's]({{site.repositories.bsetunes_maui}}) the source 
 
 #### Windows Devices
 
-<a href="https://github.com/uwe-e/BSE.Tunes.Client/releases/download/v1.0.8/BSE.Tunes.WinUI.Client_1.0.1.0_x64.msix">click to install it on a Windows device</a>
+<a href="https://github.com/uwe-e/BSE.Tunes.Client/releases/download/v1.0.8/BSE.Tunes.WinUI.Client_1.0.1.0_x64.msix">click to download it to a Windows device</a>
+
+<a href="https://github.com/uwe-e/BSE.Tunes.Client/blob/develop/docs/BSE.Tunes.WinUI.Client/sideloading.md">here</a> you will find instructions on how to install the app on windows.
 
 #### IOS Devices
 Registered users can install an adhoc distribution version of the app.
